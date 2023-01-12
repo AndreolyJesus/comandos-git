@@ -1,0 +1,12 @@
+1 - como iniciar um repositório git local
+    git init
+
+2 - como conectar meu repositório local com o github
+   
+    git remote add origin [url]	
+
+3 - Quando já tiver arquivos no repo local	
+	git pull --allow-unrelated-histories
+
+4 - fazer o push
+

@@ -1,0 +1,15 @@
+
+
+-------------------------GIT-------------------------
+
+* git reset HEAD <nome do arquivo>
+para desfazer um git marcado para ser comitado.
+
+* git checkout -- <nome do arquivo>
+para desfazer modificações no codigo.(descartar)
+
+* git log
+para mostrar os commit ja feitos.
+
+* git revert (numero do commit consultado pelo log)
+para desfazer um commit feito por engano.

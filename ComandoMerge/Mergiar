@@ -1,0 +1,22 @@
+
+1 - fazer um checkout na branch
+
+git checkout [nome.branch] ex:develop
+
+2 - atualizar a branch
+
+git pull
+
+3 - criar a branch
+
+git checkout -b [nome da branch] ex: feature/CAR-894
+
+4 - fazer alteração no código
+
+5 - fazer commit das alterações
+
+5.1 - git add .
+
+5.2 - git commit -m ex: "feat[CAR-XXX]
+
+5.3 - git push
